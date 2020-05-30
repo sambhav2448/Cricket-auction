@@ -1,0 +1,27 @@
+HOW TO RUN THE CODE-
+--------------------
+
+1) The main menu pops after compiling the code, with seven options with a number assigned to every module.
+
+2) We have to select option 1. ie login page to register as a bidder. There are four bidders with teams rcb kkr csk srh respectively.
+Once the player has created an account we can move forward to the next module
+
+3) option 2. is for viewing players list and by selecting the player we can view its statistics.
+
+4) This module(3.) is the AUCTION system where the bidders get to bid and make a team .There are total of 24 players and auction takes place as per the rules.
+The highest bidder gets the player and once the money is over for a bidder,he cnnot take part in the auction.The players are added in the queue having its team name
+
+5) In this module(4.) the auctioneers can login with their user id and view their teams
+
+6) this module no 5. will view all teams with their team names and the list of players that were stored in the queue
+
+7)This is the final module(6.) that will create the fixtures(schedule) of the matches along with their venues and time.
+We then select the winners of each game (or select option no "3" int that module for draw) for all12 games .This generates the points assigned 
+to each team(2points for winneing and 1 point for each team in case of draw). Then a points table is formed which shows the teams along with its points 
+in decreasing order.
+
+8)To exit the code.
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+SOFTWARE REQUIRED-
+  -DEV C++

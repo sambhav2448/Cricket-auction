@@ -1,0 +1,12 @@
+Batting Career Summary of Krunal Pandya-
+
+	M	Inn	NO	Runs	HS	Avg	BF	SR	100	200	50	4s	6s
+T20I	11	5	2	70	26	23.33	50	140.0	0	0	0	6	3
+IPL	39	33	9	708	86	29.5	460	153.91	0	0	1	68	30
+
+
+Bowling Career Summary
+
+	M	Inn	B	Runs	Wkts	BBI	BBM	Econ	Avg	SR	5W	10W
+T20I	11	11	264	364	11	4/36	4/36	8.27	33.09	24.0	0	0
+IPL	39	37	668	793	28	3/14	3/14	7.12	28.32	23.86	0	0

@@ -1,0 +1,7 @@
+Batting Career Summary of Tim Paine-
+
+	M	Inn	NO	Runs	HS	Avg	BF	SR	100	200	50	4s	6s
+Test	21	35	7	984	92	35.14	2278	43.2	0	0	5	107	3
+ODI	35	35	3	890	111	27.81	1257	70.8	1	0	5	96	6
+T20I	12	9	1	82	25	10.25	77	106.49	0	0	0	7	3
+IPL	2	2	0	10	8	5.0	26	38.46	0	0	0	0	0

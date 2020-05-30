@@ -1,0 +1,16 @@
+Batting Career Summary of Colin Munro-
+
+	M	Inn	NO	Runs	HS	Avg	BF	SR	100	200	50	4s	6s
+Test	1	2	0	15	15	7.5	26	57.69	0	0	0	3	0
+ODI	51	47	1	1146	87	24.91	1086	105.52	0	0	7	120	34
+T20I	52	49	7	1411	109	33.6	871	162.0	3	0	9	104	92
+IPL	9	8	0	93	33	11.62	71	130.99	0	0	0	10	4
+
+
+Bowling Career Summary OF Colin Munro-
+
+	M	Inn	B	Runs	Wkts	BBI	BBM	Econ	Avg	SR	5W	10W
+Test	1	1	108	40	2	2/40	2/40	2.22	20.0	54.0	0	0
+ODI	51	24	546	472	7	2/10	2/10	5.19	67.43	78.0	0	0
+T20I	52	12	118	186	4	1/12	1/12	9.46	46.5	29.5	0	0
+IPL	9	2	12	15	0	0/7	0/7	7.5	0.0	0.0	0	0
